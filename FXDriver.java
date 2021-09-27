@@ -1,4 +1,13 @@
-
+/**
+ * Class: CMS 203 CS I
+ * Instructor: Dr. Grinberg
+ * Description: Running Hello Buttons with javaFX
+ * Due: 9/27/2021
+ * I pledge that I have completed the programming assignment independently.
+   I have not copied the code from a student or any source.
+   I have not given my code to any student.
+   Sign here: Yei Thek Wang
+ */
 import java.io.IOException;
 import javafx.application.Application;
 import javafx.scene.Parent;
